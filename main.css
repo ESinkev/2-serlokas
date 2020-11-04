@@ -1,0 +1,34 @@
+body {
+ 
+ background-color: hsl(81, 17%, 59%);
+}
+
+    img {
+        display: inline-block;
+width: 50%;
+float: left;
+object-fit: contain;
+margin-left: 7%;
+    }
+    div {
+        display: inline-block;
+width: 49%;
+float: left;
+    }
+    h1 {display: inline-block;
+        width: 49%;
+        font-size: 70%;
+        }
+    p {
+    
+    }
+    p {
+    
+    }
+    a {
+display: inline-block;
+background-color: sienna;
+color: tan;
+padding: 15px;
+text-decoration: none;
+    }
