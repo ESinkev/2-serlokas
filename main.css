@@ -5,37 +5,38 @@ body {
 
     img {
         display: inline-block;
-        /* width: 400px; */
+        width: 30%;
         height: 500px;
+        object-fit: contain;
         float: left;
         background-color: #eaebed;
         object-fit: contain;
-        margin-left: 120px;
+        margin-left: 20%;
         margin-top: 100px;
     }
     div {
         display: inline-block;
-        width: 50%;
+        width: 30%;
         float: left;
         text-align: center;
-        margin: o;
+        margin: 0;
         margin-top: 200px;
         font-size: 24px;
     }
     h1 {display: inline-block;
         width: 100%;
+        font-size: 100px;
+        margin: 0;
         }
     p {
     display: inline-block;
-    text-align: center;
     width: 100%;
+    margin: 0;
+    margin-bottom: 20px;
     }
-    p {
-    
-    }
+
     a {
 display: inline-block;
-text-align: center;
 background-color: #696f89;
 color:#fff;
 padding: 15px;
